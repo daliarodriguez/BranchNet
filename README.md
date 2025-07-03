@@ -58,7 +58,7 @@ The repository is structured as follows:
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/daliarodriguez/Branchnet
-    cd BranchNet
+    cd Branchnet
     ```
 2.  **Install dependencies:**
     It is recommended to use a virtual environment.
