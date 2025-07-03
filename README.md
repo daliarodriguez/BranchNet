@@ -49,6 +49,10 @@ The repository is structured as follows:
 
 ## 🚀 Getting Started
 
+### Prerequisites
+
+* Python 3.10 or higher.
+
 ### Installation
 
 1.  **Clone the repository:**
