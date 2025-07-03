@@ -91,7 +91,8 @@ This script will iterate through all specified datasets and models (BranchNet an
 After the benchmetrics.py run is complete, you can generate the summary tables (similar to those in the paper) using the get_stats.py script:
 
 ```bash
-python output/benchmarks/models/get_stats.py
+cd output/benchmarks/models/
+python get_stats.py
 ```
 This will process the raw output files from the experiments and print the aggregated results, allowing for easy comparison and analysis.
 
