@@ -19,7 +19,7 @@ class BranchNet(nn.Module):
         self.task = task
         self.dtype = dtype
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu") if device is None else device
-        self.hidden_neurons = None
+        self.hidden_neurons = 0
         self.in_features = None
         self.out_features = None
         self.bn0 = None
