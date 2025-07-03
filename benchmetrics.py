@@ -101,6 +101,6 @@ for path in all_config_names:
                     print(MODEL_NAME, "performance", perf_metric, "hidden_neurons:", trainer.model.w1.data.shape[0])
                 else:
                     print(MODEL_NAME,"performance", perf_metric, file=f)
-                    print(MODEL_NAME,"performance", perf_metric, file=f)
+                    print(MODEL_NAME,"performance", perf_metric)
                 torch.cuda.empty_cache()
         f.close()
