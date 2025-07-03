@@ -53,7 +53,7 @@ The repository is structured as follows:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/daliarodriguez/Branchnet](https://github.com/daliarodriguez/Branchnet) 
+    git clone https://github.com/daliarodriguez/Branchnet
     cd BranchNet
     ```
 2.  **Install dependencies:**
