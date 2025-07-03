@@ -6,7 +6,7 @@ This repository contains the code to reproduce the results from the paper:
 
 **BranchNet: A Neuro-Symbolic Learning Framework for Structured Multi-Class Classification**\
 Dalia Rodriguez-Salas, Christian Riess\
-[arXiv link to be added]
+[https://arxiv.org/abs/2507.01781](https://arxiv.org/abs/2507.01781)
 
 ---
 
@@ -53,7 +53,7 @@ The repository is structured as follows:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/my-repo-path](https://github.com/my-repo-path) # Replace with your actual repository URL
+    git clone [https://github.com/daliarodriguez/Branchnet](https://github.com/daliarodriguez/Branchnet) 
     cd BranchNet
     ```
 2.  **Install dependencies:**
@@ -113,7 +113,7 @@ If you use this work, please cite:
   title={BranchNet: A Neuro-Symbolic Learning Framework for Structured Multi-Class Classification},
   author={Dalia Rodriguez-Salas and Christian Riess},
   year={2025},
-  eprint={arXiv:XXXX.XXXXX},
+  eprint={arXiv:2507.01781},
   archivePrefix={arXiv},
   primaryClass={cs.LG}
 }
